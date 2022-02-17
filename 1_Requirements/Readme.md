@@ -37,18 +37,11 @@ Outdated healthcare facilities and technology,Inadequate management training,Ina
 
 <h3>Opportunities:
 
-•	Collaborate with different healthcare organizations to knowledge share
-•	Develop healthcare programs and initiatives to drive more community outreach and engagement
-•	Increase funding for analytics and researching, including both staff and technology
-•	Create mentor programs
+Increase funding for analytics and research, including both staff and technology,Create mentor programmes,Collaborate with different healthcare organisations to share knowledge,Develop healthcare programmes and initiatives to drive more community outreach and engagement,Increase funding for analytics and research, including both staff and technology
 
 <h3>Threats:
 
-•	Economic or political insecurity
-•	Policy and legislation changes that result in budget deficits
-•	Pressure to reduce costs while meeting expectations of universal healthcare coverage
-•	Increased competition from newly built hospitals
-
+Increased competition from newly built hospitals,Economic or political insecurity • Policy and law changes can result in budget shortfalls,Pressure to decrease costs while meeting expectations of universal healthcare coverage
 ## Who
 The installation of a hospital management system project delivers a number of benefits to the institution, including increased service quality and efficiency. As previously stated, it is built so that a user can manage the following: patient information, records, and management, as well as third-parties such as medicine suppliers and insurance organisations.
 
