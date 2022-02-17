@@ -29,18 +29,11 @@ The user can now create new patient records, delete current patient records, cha
 ## SWOT ANALYSIS
 <h3>Strengths
 
-•	A primary focus on quality improvement
-•	Internal teams dedicated to research and analytics
-•	High-quality medical personnel
-•	Modern medical equipment and a well-equipped facility 
+A primary focus on improving quality, Internal research and analytics teams,Top-notch medical experts,Cutting-edge medical technology and a well-equipped facility
 
 <h3>Weakness
 
-•	Outdated healthcare facilities and technology
-•	Insufficient management training
-•	Lack of funding and resources to support programs
-•	Poor location that’s not easily accessible for staff and patients
-•	High staff turnover
+Outdated healthcare facilities and technology,Inadequate management training,Inadequate funds and resources to implement programmes,Inconvenient location for staff and patients,High staff turnover
 
 <h3>Opportunities:
 
