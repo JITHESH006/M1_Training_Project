@@ -1,15 +1,6 @@
 Hospital_Management_System
 
-
-This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a program developed for managing details regarding number of patients  entering to the hospital. The program is very helpful to find the results of the inpatients  and outpatients easily. can search the doctors related to patients in hospital demo. The project and implementation is developed by using c
-
-
-# GIT INSPECTOR 
-
-
-
-  
-
+This project entails the development of the " HOSPITAL MANAGEMENT SYSTEM," a programme designed to keep track of the number of patients admitted to the hospital. The application is extremely useful for quickly locating inpatient and outpatient results. In the hospital demo, you can search for doctors who are related to your patients. c is used to develop the project and its execution.
 
  
   ## Folder Structure
@@ -22,12 +13,4 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
   
   
   
-  ## How to Build
-  
-  
-  ### To build and execute:
-```
-make all
-make run
-```
 
