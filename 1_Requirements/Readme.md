@@ -29,10 +29,10 @@ The user can now create new patient records, delete current patient records, cha
 ## SWOT ANALYSIS
 <h3>Strengths
 
-•	A primary focus on quality improvement ($ saved from quality projects)
-•	Internal teams dedicated to research and analytics ($ spent on research)
-•	High-quality medical personnel (# of staff with external recognition)
-•	Modern medical equipment and a well-equipped facility (average age of medical equipment)
+•	A primary focus on quality improvement
+•	Internal teams dedicated to research and analytics
+•	High-quality medical personnel
+•	Modern medical equipment and a well-equipped facility 
 
 <h3>Weakness
 
@@ -57,17 +57,15 @@ The user can now create new patient records, delete current patient records, cha
 •	Increased competition from newly built hospitals
 
 ## Who
-The implementation of hospital management system project provides the institution with different advantages that improve the service quality and efficiency. As mentioned above it is created a user can handle: patients details, recordsf and management, and third-parties like drug suppliers and insurance companies.
+The installation of a hospital management system project delivers a number of benefits to the institution, including increased service quality and efficiency. As previously stated, it is built so that a user can manage the following: patient information, records, and management, as well as third-parties such as medicine suppliers and insurance organisations.
 
 ## What
-The hospital management system helps register complete patient information. It captures and stores the medical history, treatment required, details of their previous visits, upcoming appointments if any, reports, insurance details and more. It helps eliminate the need to get these details on every visit.
-
+The hospital management system aids in the registration of complete patient data. It records and retains the patient's medical history, treatment needs, past visit details, planned appointments (if any), reports, insurance information, and more. It reduces the requirement for these details to be obtained at each visit.
 ## When
 HMS information system helps to track and control finances, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
 
 ## Where
-Hospital Management System helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time
-
+The Hospital Management System enables healthcare workers to review clinical documentation, diagnoses, patient data, and other pertinent information in a single perspective, allowing them to make timely choices.
 ## How
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
