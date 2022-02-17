@@ -1,3 +1,3 @@
 # Here are all my Certificates
 Sololearn certificate
-![Sololearn certificate](sololearn.png)
+![Sololearn certificate](SOLO LEARN C certificate.png)
