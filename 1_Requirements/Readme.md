@@ -6,7 +6,7 @@
 
 About Hospital Management System :
 
----Add new patient record.
+---Add new patient record. 
 ---Search or edit patient record.
 ---Delete patient records'
 ---List record of patients.
