@@ -24,8 +24,8 @@ About Hospital Management System :
 8.Reduces the work of documentation
 
 ## Defining Our System
-    Here in our project(Hospital management system) user can able to login and should enter password then main menu will be display .The login password would be declared default.
-    Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
+    In our project (Hospital management system), users can log in and enter their password, after which the main menu will appear. The default login password would be set.
+The user can now create new patient records, delete current patient records, change existing records, and examine a list of existing records, among other things. Finally, the user can log out of the system.
 ## SWOT ANALYSIS
 <h3>Strengths
 
