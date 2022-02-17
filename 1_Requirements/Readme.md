@@ -4,12 +4,12 @@
 
 ## Research
 
-About Hospital Management System C Project:
+About Hospital Management System :
 
----Add new patient record: In this feature, user can add a new patient record
+---Add new patient record.
 ---Search or edit patient record.
----List record of patients.
 ---Delete patient records'
+---List record of patients.
 ---Exit from the system
  
 ## Cost and Features and Timeline
