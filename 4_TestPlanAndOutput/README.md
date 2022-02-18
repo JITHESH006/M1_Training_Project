@@ -2,7 +2,7 @@
 
 ## High Level Test Plan
 
-| Test ID | Description | Exp I/P |	Actual Output | status |
+| Test ID | Description | I/P |	 Output | status |
 | --- | --- | --- | --- | --- |
 | 01 | Adding new patients details  | id,name  | Record ipdated sucessfully | pass |
 | 02 | Delete existed  patient  record | id=? | id found | pass | 
@@ -17,11 +17,11 @@
 
 
 
-| Test ID | Description | Exp I/P | Exp O/P |	Actual Output | status |
-| --- | --- | --- | --- | --- | --- |
-| 01 | Delete patient record not existed  | id | id not found | id not found | pass |
-| 02 | Login into the system | Password | Denied | Denied | pass | 
-| 03 | checking rooms availability| Room no | Room not available | Room not available | pass |
+| Test ID | Description |  I/P | Output | status |
+| --- | --- | --- | --- |  --- |
+| 01 | Delete patient record not existed  | id | id not found  | pass |
+| 02 | Login into the system | Password | Denied  | pass | 
+| 03 | checking rooms availability| Room no | Room not available  | pass |
 
 
 
