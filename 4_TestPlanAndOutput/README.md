@@ -2,7 +2,7 @@
 
 ## High Level Test Plan
 
-| Test ID | Description | I/P |	 Output | status |
+| Test ID | Description | INPUT |	 Output | status |
 | --- | --- | --- | --- | --- |
 | 01 | Adding new patients details  | id,name  | Record ipdated sucessfully | pass |
 | 02 | Delete existed  patient  record | id=? | id found | pass | 
@@ -17,7 +17,7 @@
 
 
 
-| Test ID | Description |  I/P | Output | status |
+| Test ID | Description |  INPUT| Output | status |
 | --- | --- | --- | --- |  --- |
 | 01 | Delete patient record not existed  | id | id not found  | pass |
 | 02 | Login into the system | Password | Denied  | pass | 
