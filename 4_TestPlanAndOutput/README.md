@@ -3,7 +3,7 @@
 ## High Level Test Plan
 
 | Test ID | Description | Exp I/P |	Actual Output | status |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 01 | Adding new patients details  | id,name  | Record ipdated sucessfully | pass |
 | 02 | Delete existed  patient  record | id=? | id found | pass | 
 | 03 | checking list records present in system | list of records | list of records | pass |
