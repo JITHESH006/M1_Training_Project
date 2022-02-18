@@ -1,6 +1,6 @@
-#include<stdio.h>                   //contains printf,scanfetc
+#include<stdio.h>                   
 #include "functions.h"
-char password[20]={"harish"};  //for changing the password just change "home" to any new word to set as password..
+char password[20]={"dane"}; 
 
 
 int main(void)
