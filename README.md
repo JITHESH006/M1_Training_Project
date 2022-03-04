@@ -6,3 +6,4 @@ This project entails the development of the " HOSPITAL MANAGEMENT SYSTEM," a pro
   
 [![Git Inspector](https://github.com/JITHESH006/M1_training_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/JITHESH006/M1_training_project/actions/workflows/gitinspector.yml)  
 
+[![Git Inspector](https://github.com/JITHESH006/M1_training_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/JITHESH006/M1_training_project/actions/workflows/gitinspector.yml)
