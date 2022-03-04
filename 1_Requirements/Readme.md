@@ -3,6 +3,18 @@
  This project entails the development of the " HOSPITAL MANAGEMENT SYSTEM," a programme designed to keep track of the number of patients admitted to the hospital. The application is extremely useful for quickly locating inpatient and outpatient results. In the hospital demo, you can search for doctors who are related to your patients. c is used to develop the project and its execution.
 
 
+## High Level Requirements
+| **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | Patient Activities|-It includes patient records,patient information  | Implemented    |
+| Adminstration     |It includes room informtion,general adminstration| Implemented    |
+|  Payment Details       |It includes patient payment details,pay recipts etc| future    |
+##  Low level Requirements
+ | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
+| platform     |The system can be work on any operating system like windows or linus| Implemented    |
+|  Performanace       |The system should handles the large amount patients data| Implemented    |
 
 
 ## SWOT ANALYSIS
