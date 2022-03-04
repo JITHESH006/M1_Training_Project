@@ -45,16 +45,3 @@ HMS information system helps to track and control finances, reduce leakages as w
 The Hospital Management System enables healthcare workers to review clinical documentation, diagnoses, patient data, and other pertinent information in a single perspective, allowing them to make timely choices.
 ## How
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
-
-## High Level Requirements
-| **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
-|-------------|--------------------------------------------------------------|------------- |
- | Patient Activities|-It includes patient records,patient information  | Implemented    |
-| Adminstration     |It includes room informtion,general adminstration| Implemented    |
-|  Payment Details       |It includes patient payment details,pay recipts etc| future    |
-##  Low level Requirements
- | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
-|-------------|--------------------------------------------------------------|------------- |
- | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
-| platform     |The system can be work on any operating system like windows or linus| Implemented    |
-|  Performanace       |The system should handles the large amount patients data| Implemented    |
