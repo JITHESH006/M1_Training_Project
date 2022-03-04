@@ -2,26 +2,7 @@
 ## Introduction
  This project entails the development of the " HOSPITAL MANAGEMENT SYSTEM," a programme designed to keep track of the number of patients admitted to the hospital. The application is extremely useful for quickly locating inpatient and outpatient results. In the hospital demo, you can search for doctors who are related to your patients. c is used to develop the project and its execution.
 
-## Research
 
-About Hospital Management System :
-
----Add new patient record. 
----Search or edit patient record.
----Delete patient records'
----List record of patients.
----Exit from the system
- 
-## Cost and Features and Timeline
-
-1.Time-saving Technology
-2.Improved Efficiency by avoiding human errors
-3.Reduces scope for Error
-4.Data security and correct data retrieval made possible
-5.Cost effective and easily manageable
-6.Easy access to patient data with correct patient history
-7.Improved patient care made possible
-8.Reduces the work of documentation
 
 ## Defining Our System
     In our project (Hospital management system), users can log in and enter their password, after which the main menu will appear. The default login password would be set.
