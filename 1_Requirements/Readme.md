@@ -44,4 +44,4 @@ HMS information system helps to track and control finances, reduce leakages as w
 ## Where
 The Hospital Management System enables healthcare workers to review clinical documentation, diagnoses, patient data, and other pertinent information in a single perspective, allowing them to make timely choices.
 ## How
-    The system creates an external file to store the data perminantly.This system is deployed using c programming.
+ The system creates an external file to store the data perminantly.This system is deployed using c programming.
