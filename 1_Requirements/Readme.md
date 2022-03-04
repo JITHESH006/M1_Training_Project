@@ -4,9 +4,7 @@
 
 
 
-## Defining Our System
-    In our project (Hospital management system), users can log in and enter their password, after which the main menu will appear. The default login password would be set.
-The user can now create new patient records, delete current patient records, change existing records, and examine a list of existing records, among other things. Finally, the user can log out of the system.
+
 ## SWOT ANALYSIS
 <h3>Strengths
 
